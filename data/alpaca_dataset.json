@@ -1,0 +1,752 @@
+[
+  {
+    "instruction": "What are the eligibility criteria for a pre-approved credit card?",
+    "input": "",
+    "output": "Pre-approved credit cards are offered based on your existing relationship with the bank, a consistent repayment history, and a CIBIL score typically above 750. You can check your offer in the 'Offers' section of your NetBanking portal. [cite: 7, 11]"
+  },
+  {
+    "instruction": "How do I calculate the interest on my savings account?",
+    "input": "",
+    "output": "Savings account interest is calculated on a daily balance basis and usually credited to your account quarterly. The formula is: (Daily Balance * Interest Rate) / (365 * 100). [cite: 9, 10]"
+  },
+  {
+    "instruction": "What should I do if my ATM withdrawal failed but the amount was debited?",
+    "input": "",
+    "output": "Please wait for 24 hours as most such transactions are reversed automatically. If the amount is not credited back, lodge a formal complaint via our app or branch with the ATM slip or transaction reference number. [cite: 10, 11]"
+  },
+  {
+    "instruction": "Can I change the tenure of my active home loan?",
+    "input": "",
+    "output": "Yes, you can request a 'Tenure Extension' or 'Tenure Reduction' by submitting a written request at your home branch. This may require a fresh assessment of your repayment capacity and may involve a nominal processing fee. [cite: 7, 8]"
+  },
+  {
+    "instruction": "What is a 'Nomination' in a bank account?",
+    "input": "",
+    "output": "Nomination is a facility that allows an account holder to appoint a person who can claim the funds in the account in the event of the account holder's death, ensuring a smooth transfer of assets. [cite: 11, 24]"
+  },
+  {
+    "instruction": "Is there a limit on the number of free cheque books I can get per year?",
+    "input": "",
+    "output": "Most savings accounts provide one free cheque book of 20-25 leaves per financial year. Additional cheque books are subject to a nominal charge, which varies by account type. [cite: 11, 16]"
+  },
+  {
+    "instruction": "How do I activate international transactions on my debit card?",
+    "input": "",
+    "output": "You can enable international usage instantly through the 'Manage Cards' section in our Mobile Banking App or via NetBanking. Ensure you set a daily limit for international spending for security. [cite: 10, 16]"
+  },
+  {
+    "instruction": "What is the minimum balance requirement for a basic savings account?",
+    "input": "",
+    "output": "The Average Monthly Balance (AMB) varies: ₹10,000 for Urban branches, ₹5,000 for Semi-Urban, and ₹2,500 for Rural branches. Failure to maintain this may result in a non-maintenance fee. [cite: 11, 45]"
+  },
+  {
+    "instruction": "What is the difference between a NEFT and an RTGS transfer?",
+    "input": "",
+    "output": "NEFT operates in half-hourly batches and has no minimum limit. RTGS is for real-time, high-value transfers with a minimum limit of ₹2 Lakhs. [cite: 10, 24]"
+  },
+  {
+    "instruction": "Can I get a loan against my Fixed Deposit (FD)?",
+    "input": "",
+    "output": "Yes, you can avail of a 'Loan against FD' or an Overdraft facility up to 90-95% of your FD value. The interest rate is typically 1-2% higher than the rate earned on the FD. [cite: 7, 9]"
+  },
+  {
+    "instruction": "What should I do if I lose my credit card?",
+    "input": "",
+    "output": "Immediately block your card via the mobile app, net banking, or by calling our 24/7 emergency helpline. This prevents unauthorized transactions and ensures regulatory compliance for fraud protection."
+  },
+  {
+    "instruction": "I received a suspicious link asking for my OTP. Is this from the bank?",
+    "input": "Link: http://bit.ly/fake-bank-login",
+    "output": "No, this is a phishing attempt. The bank will NEVER ask for your OTP, PIN, or password via SMS, email, or phone calls. Please do not click the link and report it to our cybercell immediately."
+  },
+  {
+    "instruction": "How can I enable two-factor authentication (2FA) for my account?",
+    "input": "",
+    "output": "Go to 'Security Settings' in your mobile app and select 'Enable 2FA'. This adds an extra layer of protection by requiring both your password and a unique code generated on your device."
+  },
+  {
+    "instruction": "What is a 'Cooling-off' period for new beneficiaries?",
+    "input": "",
+    "output": "For security, when you add a new beneficiary, there is a 24-hour cooling-off period. During this time, you can only transfer a limited amount (e.g., ₹50,000) to prevent large unauthorized transfers."
+  },
+  {
+    "instruction": "How do I report a fraudulent transaction on my account?",
+    "input": "Transaction ID: 554433",
+    "output": "Report the fraud within 72 hours via the 'Dispute Transaction' section in the app. Rapid reporting limits your liability for unauthorized electronic transactions as per central bank guidelines."
+  },
+  {
+    "instruction": "Can I temporarily lock my debit card without permanently blocking it?",
+    "input": "",
+    "output": "Yes, use the 'Card Control' feature in the mobile app to 'Toggle Off' your card. You can switch it back on instantly when you need to use it. This is a key safety mandate for local card control."
+  },
+  {
+    "instruction": "What is 'SIM Swapping' and how can I prevent it?",
+    "input": "",
+    "output": "SIM swapping is when a fraudster transfers your phone number to their SIM. Prevent it by never sharing personal details publicly and contacting your service provider immediately if you lose mobile signal unexpectedly."
+  },
+  {
+    "instruction": "How do I change my net banking password?",
+    "input": "",
+    "output": "Log in to net banking, go to 'Profile' > 'Security' > 'Change Password'. Use a combination of uppercase, lowercase, numbers, and symbols. Avoid using predictable details like your birth year."
+  },
+  {
+    "instruction": "What are the signs of a skimming device on an ATM?",
+    "input": "",
+    "output": "Look for loose parts on the card slot, hidden cameras near the keypad, or a keypad that feels unusually thick. If anything looks suspicious, do not use the ATM and inform the bank staff."
+  },
+  {
+    "instruction": "Is it safe to use public Wi-Fi for banking?",
+    "input": "",
+    "output": "No, it is highly discouraged. Public Wi-Fi is often unsecured and can be intercepted. Always use a secure, private connection or your mobile data for financial transactions."
+  },
+  {
+    "instruction": "How does the bank protect my data from hackers?",
+    "input": "",
+    "output": "We use end-to-end encryption, multi-level firewalls, and regular security audits. Our system mandates also include running small language models locally to ensure sensitive data never leaves our secure environment."
+  },
+  {
+    "instruction": "Why was my account temporarily frozen?",
+    "input": "",
+    "output": "Accounts are sometimes frozen due to suspicious activity, missing KYC documents, or repeated incorrect PIN entries. Please visit your branch with valid ID to verify your identity and unfreeze the account."
+  },
+  {
+    "instruction": "What is an 'Identity Theft' protection plan?",
+    "input": "",
+    "output": "This service monitors your credit report for unauthorized changes and alerts you if your personal information is found on the dark web, helping you maintain strict security standards."
+  },
+  {
+    "instruction": "Can I set transaction limits for my child's add-on card?",
+    "input": "",
+    "output": "Yes, you can set daily spending limits for add-on cards via the 'Manage Family Cards' section in your banking dashboard to ensure financial safety and oversight."
+  },
+  {
+    "instruction": "How often should I update my banking apps?",
+    "input": "",
+    "output": "Always update as soon as a new version is available. Updates often include critical security patches that protect against newly discovered vulnerabilities."
+  },
+  {
+    "instruction": "What is 'Vishing'?",
+    "input": "",
+    "output": "Vishing is voice phishing where scammers call you pretending to be bank officials to steal your PIN or OTP. Remember, we will never ask for these details over the phone."
+  },
+  {
+    "instruction": "How do I verify if an email from the bank is genuine?",
+    "input": "",
+    "output": "Check the sender's email address domain (e.g., @yourbank.com). Real emails will never ask you to click a link to 'verify your account' by entering your password."
+  },
+  {
+    "instruction": "What is the benefit of a virtual debit card?",
+    "input": "",
+    "output": "Virtual cards exist only in your app and have a separate number from your physical card. They are ideal for one-time online purchases to keep your main account details hidden from merchants."
+  },
+  {
+    "instruction": "Can I block transactions from specific countries?",
+    "input": "",
+    "output": "Yes, you can geofence your card via 'Usage Settings' to allow transactions only in specific regions, which is a powerful tool against international fraud."
+  },
+  {
+    "instruction": "What happens if I forget my secret answer for security questions?",
+    "input": "",
+    "output": "You will need to reset your profile credentials. This usually requires a visit to the branch or a video-KYC session to confirm your identity through a standardized process."
+  },
+  {
+    "instruction": "What is the grace period for my life insurance premium payment?",
+    "input": "",
+    "output": "Typically, a grace period of 30 days is allowed for annual/half-yearly premiums and 15 days for monthly premiums from the due date. Your coverage remains active during this window."
+  },
+  {
+    "instruction": "How do I file a cashless health insurance claim?",
+    "input": "",
+    "output": "Visit a network hospital and present your insurance e-card at the TPA desk. The hospital will coordinate directly with the insurer for pre-authorization and settlement."
+  },
+  {
+    "instruction": "What is a 'No Claim Bonus' (NCB) in motor insurance?",
+    "input": "",
+    "output": "NCB is a discount on the renewal premium awarded to the policyholder for every claim-free year. It can range from 20% to 50% depending on the consecutive claim-free period."
+  },
+  {
+    "instruction": "Can I cancel my insurance policy during the 'Free Look' period?",
+    "input": "",
+    "output": "Yes, you have 15 days (30 days for electronic/distance marketing) from the receipt of the policy document to review and cancel it if you are dissatisfied with the terms."
+  },
+  {
+    "instruction": "What does 'Third-Party Liability' cover in car insurance?",
+    "input": "",
+    "output": "It covers legal liability for damage caused to a third-party person or property by your vehicle. It is a mandatory requirement under the Motor Vehicles Act."
+  },
+  {
+    "instruction": "How do I add a new family member to my existing floater health plan?",
+    "input": "Relation: Newborn Son",
+    "output": "You can add a newborn or spouse by submitting a 'Policy Alteration Form' along with relevant documents like a birth or marriage certificate during renewal or mid-term."
+  },
+  {
+    "instruction": "What is the difference between 'Term Insurance' and 'Endowment Plans'?",
+    "input": "",
+    "output": "Term insurance offers high coverage at a low cost but only pays out in case of death. Endowment plans combine life cover with savings, providing a maturity benefit if you survive the term."
+  },
+  {
+    "instruction": "What are 'Pre-existing Diseases' (PED) in health insurance?",
+    "input": "",
+    "output": "PED refers to any health condition diagnosed or treated within 48 months before purchasing the policy. These usually have a waiting period of 2 to 4 years before coverage starts."
+  },
+  {
+    "instruction": "How do I track the status of my insurance claim?",
+    "input": "Claim Reference: CLM998877",
+    "output": "You can track your claim status in real-time via the 'Claims' section of our mobile app or by entering your Reference Number CLM998877 on our official website."
+  },
+  {
+    "instruction": "What is 'Surrender Value' in a life insurance policy?",
+    "input": "",
+    "output": "It is the amount payable by the insurer to the policyholder if they decide to terminate the policy before maturity, provided premiums have been paid for at least 2 or 3 years."
+  },
+  {
+    "instruction": "Is suicide covered under life insurance?",
+    "input": "",
+    "output": "Most policies cover suicide only after 12 months from the date of policy inception or reinstatement. Please refer to your specific policy terms for the 'Suicide Clause'."
+  },
+  {
+    "instruction": "What is a 'Deductible' in health insurance?",
+    "input": "",
+    "output": "A deductible is a fixed amount you must pay out-of-pocket for medical expenses before the insurance company begins to pay. Higher deductibles usually mean lower premiums."
+  },
+  {
+    "instruction": "Can I transfer my No Claim Bonus from another insurer?",
+    "input": "",
+    "output": "Yes, NCB is tied to the policyholder, not the vehicle. You can transfer it by providing an 'NCB Transfer Certificate' from your previous insurance provider during renewal."
+  },
+  {
+    "instruction": "What is 'Reinstatement' of a lapsed insurance policy?",
+    "input": "",
+    "output": "It is the process of putting a lapsed policy back into force by paying outstanding premiums and interest, often requiring a fresh declaration of good health."
+  },
+  {
+    "instruction": "Does health insurance cover maternity expenses?",
+    "input": "",
+    "output": "Coverage for maternity depends on your specific plan. Many group policies cover it immediately, while individual plans often have a waiting period of 2 to 4 years."
+  },
+  {
+    "instruction": "What is a 'TPD' benefit in insurance?",
+    "input": "",
+    "output": "TPD stands for 'Total and Permanent Disability.' This rider provides a lump sum or monthly income if the insured becomes permanently disabled due to an accident or illness."
+  },
+  {
+    "instruction": "How do I update the nominee details in my policy?",
+    "input": "",
+    "output": "Submit a 'Change of Nomination' form to any branch. The latest nomination supersedes all previous ones. Ensure you provide the nominee's valid ID and contact details."
+  },
+  {
+    "instruction": "What is 'Co-payment' in health insurance?",
+    "input": "",
+    "output": "Co-payment is a percentage of the total claim amount (e.g., 10% or 20%) that the policyholder agrees to pay, regardless of the total bill. It is common in senior citizen plans."
+  },
+  {
+    "instruction": "What is the 'Sum Insured' in a policy?",
+    "input": "",
+    "output": "The Sum Insured is the maximum amount an insurance company will pay in a year in case of a claim. For life insurance, this is often referred to as the 'Sum Assured'."
+  },
+  {
+    "instruction": "Does car insurance cover engine damage due to waterlogging?",
+    "input": "",
+    "output": "Standard policies often exclude 'Engine Hydrostatic Lock.' To cover this, you need an 'Engine Protect' add-on, which is highly recommended during monsoon seasons."
+  },
+  {
+    "instruction": "What is 'Keyman Insurance'?",
+    "input": "",
+    "output": "It is a life insurance policy taken by a business on the life of a crucial employee whose death would lead to financial loss for the company."
+  },
+  {
+    "instruction": "How is the premium for term insurance calculated?",
+    "input": "",
+    "output": "Premiums are based on age, gender, smoking habits, health history, and the selected sum assured. Generally, the younger you are, the lower the premium."
+  },
+  {
+    "instruction": "What is 'Critical Illness' cover?",
+    "input": "",
+    "output": "It is a rider or standalone policy that pays a lump sum amount upon the diagnosis of specified life-threatening diseases like cancer, stroke, or kidney failure."
+  },
+  {
+    "instruction": "Can I take two health insurance policies and claim from both?",
+    "input": "",
+    "output": "Yes, but you cannot profit from it. You can use the second policy to cover the 'balance amount' if the first policy's sum insured is exhausted."
+  },
+  {
+    "instruction": "What happens if I hide my smoking habit while buying insurance?",
+    "input": "",
+    "output": "Non-disclosure of material facts like smoking is considered 'Material Misrepresentation' and can lead to the rejection of your claim or cancellation of the policy."
+  },
+  {
+    "instruction": "What is 'Restoration Benefit' in health insurance?",
+    "input": "",
+    "output": "It automatically refills your sum insured if it gets exhausted during a policy year due to previous claims, ensuring you have coverage for future hospitalizations."
+  },
+  {
+    "instruction": "Is there tax benefit on health insurance premiums?",
+    "input": "",
+    "output": "Yes, premiums paid for yourself, family, and parents qualify for tax deductions under Section 80D of the Income Tax Act."
+  },
+  {
+    "instruction": "What is a 'Rider' in insurance?",
+    "input": "",
+    "output": "A rider is an optional add-on that provides extra benefits (like accidental death or waiver of premium) to your base policy for an additional cost."
+  },
+  {
+    "instruction": "How do I renew my expired car insurance?",
+    "input": "",
+    "output": "Renewing an expired policy requires a physical or digital inspection of the vehicle by the insurer. Any damage found during inspection will be excluded from the new policy."
+  },
+  {
+    "instruction": "What is 'TPA' in health insurance?",
+    "input": "",
+    "output": "TPA stands for Third-Party Administrator. They are licensed entities that process health insurance claims and provide network hospital services on behalf of the insurer."
+  },
+  {
+    "instruction": "How do I redeem my credit card reward points?",
+    "input": "",
+    "output": "You can redeem your points through our NetBanking portal under the 'Cards' tab or via the mobile app. Points can be exchanged for gift vouchers, products, or even statement credit depending on your card type."
+  },
+  {
+    "instruction": "What is the difference between the 'Total Amount Due' and 'Minimum Amount Due'?",
+    "input": "",
+    "output": "The Total Amount Due is the full balance of your monthly spend. The Minimum Amount Due (usually 5%) is the smallest payment required to avoid late fees, though interest will still apply to the remaining balance."
+  },
+  {
+    "instruction": "I see a transaction on my statement that I didn't make. How do I dispute it?",
+    "input": "Transaction: ₹4,500 at 'GlobalStore'",
+    "output": "I have flagged this transaction for review. Please use the 'Dispute' button in your mobile app or call our fraud helpline immediately to block the card and initiate a chargeback request."
+  },
+  {
+    "instruction": "What is the interest-free period on my credit card?",
+    "input": "",
+    "output": "We offer an interest-free period of up to 45-50 days. This applies only if you have paid the previous month's Total Amount Due in full and on time."
+  },
+  {
+    "instruction": "How can I increase my credit card limit?",
+    "input": "",
+    "output": "Credit limit increases are offered periodically based on your repayment history and income updates. You can check for an 'Instant Limit Enhancement' offer in your app or submit a request with your latest salary slips."
+  },
+  {
+    "instruction": "What is an 'Add-on Card' and who is eligible?",
+    "input": "",
+    "output": "An Add-on Card allows you to extend your credit facility to family members (parents, spouse, or children above 18). They share your main credit limit, and all reward points accrue to your account."
+  },
+  {
+    "instruction": "Why was my credit card transaction declined even though I have balance?",
+    "input": "",
+    "output": "Declines can happen due to: 1) International usage being disabled, 2) Online transaction limits being set too low, or 3) The merchant being flagged as high-risk. Please check your card settings in the app."
+  },
+  {
+    "instruction": "How do I convert my big purchase into EMIs?",
+    "input": "Purchase Amount: ₹25,000",
+    "output": "Purchases above ₹2,500 can be converted into EMIs via the app under 'Merchant EMI'. You can choose a tenure of 3 to 24 months. Interest rates and processing fees will apply."
+  },
+  {
+    "instruction": "What happens if I miss my credit card payment date?",
+    "input": "",
+    "output": "Missing a payment results in: 1) A late payment fee, 2) Interest charges on the outstanding balance, and 3) A negative impact on your CIBIL score. Please make a payment as soon as possible."
+  },
+  {
+    "instruction": "Can I use my credit card to withdraw cash from an ATM?",
+    "input": "",
+    "output": "Yes, this is called a 'Cash Advance'. However, it incurs a high interest rate from the day of withdrawal plus a transaction fee. It is recommended for emergency use only."
+  },
+  {
+    "instruction": "Do my reward points ever expire?",
+    "input": "",
+    "output": "Standard reward points typically expire after 2 or 3 years from the date of accrual. Premium cards often have points that never expire. Check your specific card terms for details."
+  },
+  {
+    "instruction": "What is the 'Annual Fee' for my card and can it be waived?",
+    "input": "",
+    "output": "The annual fee depends on your card variant. Many cards offer a fee waiver if you reach a specific spending milestone (e.g., ₹1 Lakh) within the year."
+  },
+  {
+    "instruction": "How do I close my credit card account?",
+    "input": "",
+    "output": "To close your card, ensure all outstanding balances are paid. You can then submit a closure request via the app or call customer support. Once closed, please cut your card across the magnetic strip."
+  },
+  {
+    "instruction": "What is a 'Fuel Surcharge Waiver'?",
+    "input": "",
+    "output": "It is a benefit where the 1% surcharge on fuel purchases is waived, usually for transactions between ₹400 and ₹4,000. The maximum waiver amount per month varies by card."
+  },
+  {
+    "instruction": "Can I use my credit card at international websites?",
+    "input": "",
+    "output": "Yes, but you must enable 'International Transactions' and 'E-commerce' usage in your card control settings first. A foreign currency markup fee will apply to these transactions."
+  },
+  {
+    "instruction": "How do I generate a new PIN for my credit card?",
+    "input": "",
+    "output": "You can set or reset your PIN instantly through the 'Set PIN' option in the Mobile Banking App or at any of our bank's ATMs using the 'Green PIN' facility."
+  },
+  {
+    "instruction": "What is 'Priority Pass' access?",
+    "input": "",
+    "output": "Priority Pass provides access to over 1,300 airport lounges worldwide. Depending on your card, you may get a certain number of free visits per year; additional visits are chargeable."
+  },
+  {
+    "instruction": "My card is damaged. How do I get a replacement?",
+    "input": "",
+    "output": "You can request a replacement card through the 'Service Request' section in the app. A nominal fee for card re-issuance may apply, and the new card will be delivered within 7 working days."
+  },
+  {
+    "instruction": "What is the 'Cashback' feature on my card?",
+    "input": "",
+    "output": "Cashback cards automatically credit a percentage of your spend back to your statement. For example, 5% on utilities and 1% on all other spends, effectively reducing your next bill."
+  },
+  {
+    "instruction": "How do I change my credit card billing cycle?",
+    "input": "",
+    "output": "You are allowed to change your billing cycle and statement date once during the lifetime of the card. Please contact customer support to choose a date that better aligns with your salary."
+  },
+  {
+    "instruction": "What is a 'Lounge Access' benefit?",
+    "input": "",
+    "output": "Certain cards offer free access to domestic or international airport lounges. You may need to swipe your card for a nominal validation charge (e.g., ₹2) to avail of this benefit."
+  },
+  {
+    "instruction": "Why is there an 'Interest Charge' on my statement even after I paid?",
+    "input": "",
+    "output": "This happens if you paid only the 'Minimum Amount Due' or paid after the due date. Interest is calculated on the daily balance from the date of purchase until the payment is made."
+  },
+  {
+    "instruction": "How can I block my card specifically for 'Contactless' payments?",
+    "input": "",
+    "output": "In the 'Card Controls' section of the app, you can specifically toggle off 'Contactless/NFC' payments while keeping online and chip-based payments active."
+  },
+  {
+    "instruction": "Can I transfer my balance from another bank's credit card?",
+    "input": "",
+    "output": "Yes, we offer a 'Balance Transfer' facility where you can move your high-interest debt to our card at a lower interest rate for a fixed period. Processing fees apply."
+  },
+  {
+    "instruction": "What is 'Zero Lost Card Liability'?",
+    "input": "",
+    "output": "It is a safety feature where you are not held liable for any fraudulent transactions made on your card after you have reported it as lost or stolen to the bank."
+  },
+  {
+    "instruction": "How do I check my credit card statement history?",
+    "input": "",
+    "output": "Statements for the last 12-24 months are available for download in the NetBanking portal or Mobile App under 'Statement History'. You can also opt for monthly e-statements via email."
+  },
+  {
+    "instruction": "What is a 'Merchant Discount Rate' (MDR)?",
+    "input": "",
+    "output": "MDR is the fee that a merchant pays to the bank for processing a card transaction. As a customer, you are typically not charged this fee unless specified by the merchant."
+  },
+  {
+    "instruction": "Why was my reward point redemption rejected?",
+    "input": "",
+    "output": "Redemptions are often rejected if your card is in a 'Delinquent' status (overdue payments) or if you have insufficient points for the selected item."
+  },
+  {
+    "instruction": "Can I pay my credit card bill using another credit card?",
+    "input": "",
+    "output": "Directly paying one credit card bill with another is not supported. You can, however, use our 'Balance Transfer' facility to consolidate debt under a single card."
+  },
+  {
+    "instruction": "How do I update my email address for e-statements?",
+    "input": "",
+    "output": "Go to 'Profile Settings' in NetBanking or the App and select 'Update Contact Details'. You may need to verify the change via an OTP sent to your registered mobile number."
+  },
+  {
+    "instruction": "What is a 'Reversal' on my credit card statement?",
+    "input": "",
+    "output": "A reversal occurs when a merchant refunds a previous transaction, or the bank corrects an erroneous charge. The amount is credited back to your card balance."
+  },
+  {
+    "instruction": "What is 'Tokenization' for my credit card?",
+    "input": "",
+    "output": "Tokenization replaces your card details with a unique digital code (token) when you save your card on apps like Amazon or Zomato, adding a layer of security against data breaches."
+  },
+  {
+    "instruction": "Can I use my credit card for recurring subscriptions?",
+    "input": "",
+    "output": "Yes, you can set up 'Standing Instructions'. Note that as per recent regulations, any recurring payment over ₹15,000 may require an additional OTP for verification."
+  },
+  {
+    "instruction": "How do I know if my credit card is active?",
+    "input": "",
+    "output": "You can check your card status in the 'Manage Cards' section of the app. If it shows 'Active' and your available limit is displayed, the card is ready for use."
+  },
+  {
+    "instruction": "What is the 'Overlimit Fee'?",
+    "input": "",
+    "output": "If you spend more than your assigned credit limit, an overlimit fee (usually a flat amount or a percentage of the excess) will be charged to your account."
+  },
+  {
+    "instruction": "How do I opt-out of marketing calls for credit cards?",
+    "input": "",
+    "output": "You can register for the 'Do Not Disturb' (DND) service through the bank’s website or your mobile app's profile settings to stop receiving promotional calls."
+  },
+  {
+    "instruction": "Is there a limit on international ATM withdrawals?",
+    "input": "",
+    "output": "Yes, international ATM withdrawals are subject to your card’s daily cash limit and may also be restricted by the local ATM’s daily limit in that country."
+  },
+  {
+    "instruction": "Can I pay my credit card bill through an ATM?",
+    "input": "",
+    "output": "Yes, most of our ATMs allow you to pay your credit card bill using your debit card by selecting the 'Bill Pay' or 'Credit Card Payment' option."
+  },
+  {
+    "instruction": "What should I do if my credit card expires next month?",
+    "input": "",
+    "output": "A renewed card is usually dispatched automatically to your registered address 15-20 days before expiry. If you don't receive it, please contact customer support."
+  },
+  {
+    "instruction": "How do I register my card for 'Verified by Visa' or 'Mastercard ID Check'?",
+    "input": "",
+    "output": "Most cards are now auto-registered. You will simply receive an OTP on your registered mobile number for every secure online transaction to complete the verification."
+  },
+  {
+    "instruction": "What is an NRE (Non-Resident External) account?",
+    "input": "",
+    "output": "An NRE account is a rupee-denominated account for NRIs to park their foreign earnings. Both the principal and interest are fully and freely repatriable (transferable back to your foreign country)."
+  },
+  {
+    "instruction": "What is the difference between NRE and NRO accounts?",
+    "input": "",
+    "output": "NRE accounts are for foreign earnings and are tax-free in India. NRO accounts are for income earned within India (like rent or dividends) and are subject to Indian tax laws."
+  },
+  {
+    "instruction": "Can I open a joint NRE account with a resident Indian?",
+    "input": "",
+    "output": "No, an NRE account can only be opened jointly with another NRI or a resident Indian on a 'former or survivor' basis (where the resident is the survivor)."
+  },
+  {
+    "instruction": "What is a Portfolio Investment Scheme (PIS)?",
+    "input": "",
+    "output": "PIS is a central bank scheme that allows NRIs to purchase and sell shares and convertible debentures of Indian companies on a recognized stock exchange."
+  },
+  {
+    "instruction": "How do I update my tax residency status?",
+    "input": "",
+    "output": "You must submit a 'Tax Residency Certificate' (TRC) from your country of residence along with a self-declaration Form 10F to avail of benefits under the Double Taxation Avoidance Agreement (DTAA)."
+  },
+  {
+    "instruction": "What is a FCNR (Foreign Currency Non-Resident) account?",
+    "input": "",
+    "output": "An FCNR account allows you to maintain fixed deposits in foreign currencies like USD, GBP, or EUR, protecting you against exchange rate fluctuations."
+  },
+  {
+    "instruction": "What is the minimum investment for a Systematic Investment Plan (SIP)?",
+    "input": "",
+    "output": "Most mutual fund schemes allow you to start a SIP with as little as ₹500 per month, making it an accessible way to build wealth over time."
+  },
+  {
+    "instruction": "What is a Mutual Fund 'Exit Load'?",
+    "input": "",
+    "output": "An exit load is a fee charged if you redeem your mutual fund units within a specific period (e.g., 1% if redeemed within 1 year). This is designed to discourage short-term withdrawals."
+  },
+  {
+    "instruction": "How can I invest in Sovereign Gold Bonds (SGB)?",
+    "input": "",
+    "output": "You can apply for SGBs through our net banking portal during the subscription window announced by the central bank. These bonds offer interest plus capital appreciation linked to gold prices."
+  },
+  {
+    "instruction": "What is a Public Provident Fund (PPF) account?",
+    "input": "",
+    "output": "PPF is a long-term, government-backed savings scheme with a 15-year tenure. It offers tax-free interest and is an excellent tool for retirement planning."
+  },
+  {
+    "instruction": "What is the maximum limit for investment in a Senior Citizens Savings Scheme (SCSS)?",
+    "input": "",
+    "output": "The maximum investment limit for SCSS is currently ₹30 Lakhs per individual. It offers a higher interest rate compared to standard savings or fixed deposits."
+  },
+  {
+    "instruction": "Can an NRI invest in a PPF account?",
+    "input": "",
+    "output": "NRIs cannot open new PPF accounts. However, if you opened an account while you were a resident, you can continue to contribute to it until maturity on a non-repatriable basis."
+  },
+  {
+    "instruction": "What is a 'Lien' on a Fixed Deposit?",
+    "input": "",
+    "output": "A lien is a legal claim or hold placed on your FD, usually because it has been used as collateral for a loan. You cannot close the FD until the loan is repaid and the lien is removed."
+  },
+  {
+    "instruction": "What is 'Tax Deducted at Source' (TDS) on Fixed Deposits?",
+    "input": "",
+    "output": "TDS is the tax the bank deducts on the interest earned if it exceeds ₹40,000 (₹50,000 for senior citizens) in a financial year. You can submit Form 15G/15H to prevent this if your total income is below the taxable limit."
+  },
+  {
+    "instruction": "How do I add a nominee to my demat account?",
+    "input": "",
+    "output": "You can add up to three nominees to your demat account via our mobile app or net banking portal using an e-sign facility with your Aadhaar-linked mobile number."
+  },
+  {
+    "instruction": "What is 'Asset Allocation'?",
+    "input": "",
+    "output": "Asset allocation is an investment strategy that aims to balance risk and reward by distributing your portfolio among different asset classes like stocks, bonds, and real estate."
+  },
+  {
+    "instruction": "What is the 'Lock-in period' for ELSS mutual funds?",
+    "input": "",
+    "output": "ELSS (Equity Linked Savings Scheme) funds have a mandatory lock-in period of 3 years, which is the shortest among all tax-saving investment options under Section 80C."
+  },
+  {
+    "instruction": "How can I get a 10-year statement for my NRO account?",
+    "input": "",
+    "output": "Standard digital statements cover up to 2 years. For a 10-year history, please submit a written request at your base branch or contact your Relationship Manager for a physical copy."
+  },
+  {
+    "instruction": "What is a 'Dematerialization' (Demat) of physical shares?",
+    "input": "",
+    "output": "It is the process of converting physical share certificates into electronic form. You must submit a Demat Request Form (DRF) along with the physical certificates to your DP (Depository Participant)."
+  },
+  {
+    "instruction": "Is the interest earned on an NRE Fixed Deposit taxable in India?",
+    "input": "",
+    "output": "No, the interest earned on NRE accounts and Fixed Deposits is currently exempt from income tax in India for Non-Resident Indians."
+  },
+  {
+    "instruction": "What is a 'Liquid Fund'?",
+    "input": "",
+    "output": "A liquid fund is a type of debt mutual fund that invests in very short-term market instruments. It offers high liquidity and is used to park surplus funds for a few days or weeks."
+  },
+  {
+    "instruction": "What is an 'Auto-Sweep' facility?",
+    "input": "",
+    "output": "Auto-sweep automatically transfers surplus funds above a certain threshold from your savings account to a high-interest Fixed Deposit, combining liquidity with higher earnings."
+  },
+  {
+    "instruction": "Can I have multiple Demat accounts?",
+    "input": "",
+    "output": "Yes, you can have multiple Demat accounts with different Depository Participants (DPs), but all accounts must be linked to the same PAN."
+  },
+  {
+    "instruction": "What is the 'Power of Attorney' (PoA) in NRI banking?",
+    "input": "",
+    "output": "An NRI can grant PoA to a resident Indian to operate their NRO/NRE accounts for local payments and investments. The PoA must be notarized or attested by the Indian Embassy."
+  },
+  {
+    "instruction": "How do I activate a dormant account?",
+    "input": "",
+    "output": "If an account has no transactions for 24 months, it becomes dormant. To reactivate it, you must submit fresh KYC documents and perform a transaction (like a deposit or withdrawal) at your branch."
+  },
+  {
+    "instruction": "What is 'Value-at-Risk' (VaR) in a portfolio?",
+    "input": "",
+    "output": "VaR is a statistical technique used to measure the level of financial risk within a firm or investment portfolio over a specific time frame."
+  },
+  {
+    "instruction": "What is 'Reinvestment' in a Fixed Deposit?",
+    "input": "",
+    "output": "In a reinvestment (cumulative) FD, the interest earned is added back to the principal quarterly, allowing you to earn 'interest on interest' through compounding."
+  },
+  {
+    "instruction": "What is a 'Sweep-in' Fixed Deposit?",
+    "input": "",
+    "output": "Sweep-in allows the bank to break a portion of your FD to cover a deficit in your savings account if a cheque or EMI is presented, preventing payment failures."
+  },
+  {
+    "instruction": "What is a 'Certificate of Deposit' (CD)?",
+    "input": "",
+    "output": "A CD is a negotiable money market instrument issued by banks as a receipt for funds deposited for a fixed period at a specific rate of interest."
+  },
+  {
+    "instruction": "Can I open an NRI account if I am on a business trip abroad?",
+    "input": "",
+    "output": "No, you must have an NRI status (living abroad for more than 182 days in a financial year) or a long-term visa/work permit to open an NRI account."
+  },
+  {
+    "instruction": "What is 'Direct Plan' vs 'Regular Plan' in Mutual Funds?",
+    "input": "",
+    "output": "In a Direct Plan, you invest directly with the fund house, saving on distributor commissions. This results in a lower expense ratio and higher returns over time."
+  },
+  {
+    "instruction": "What is a 'Gilt Fund'?",
+    "input": "",
+    "output": "Gilt funds are debt mutual funds that invest exclusively in government securities. They have no credit risk but are sensitive to interest rate changes."
+  },
+  {
+    "instruction": "What is 'Net Asset Value' (NAV)?",
+    "input": "",
+    "output": "NAV represents the market value per unit of a mutual fund scheme. It is calculated by dividing the total value of all assets in the portfolio by the number of units outstanding."
+  },
+  {
+    "instruction": "How do I close an NRI account from abroad?",
+    "input": "",
+    "output": "You can send a signed closure request form via post to your base branch, accompanied by self-attested copies of your passport and proof of NRI status."
+  },
+  {
+    "instruction": "What is 'Short-term Capital Gains' (STCG) tax on stocks?",
+    "input": "",
+    "output": "STCG is the tax on profits from selling stocks held for less than 12 months. Currently, it is taxed at 15% in India."
+  },
+  {
+    "instruction": "What is 'Long-term Capital Gains' (LTCG) tax on stocks?",
+    "input": "",
+    "output": "LTCG applies to profits from selling stocks held for more than 12 months. Profits exceeding ₹1 Lakh in a financial year are taxed at 10% without indexation."
+  },
+  {
+    "instruction": "What is the 'Expense Ratio' of a mutual fund?",
+    "input": "",
+    "output": "The expense ratio is the annual fee that all mutual funds charge their shareholders to cover the costs of managing the fund. It is expressed as a percentage of the fund's assets."
+  },
+  {
+    "instruction": "What is 'Rupee Cost Averaging'?",
+    "input": "",
+    "output": "It is the practice of investing a fixed amount regularly (SIP), which results in buying more units when prices are low and fewer units when prices are high, lowering the average cost per unit."
+  },
+  {
+    "instruction": "How do I link my Aadhaar to my NRI account?",
+    "input": "",
+    "output": "NRIs are generally not required to link Aadhaar to bank accounts. However, if you have an Aadhaar, you can link it through the 'Service Request' section in net banking if required."
+  },
+  {
+    "instruction": "What is 'FATCA' compliance?",
+    "input": "",
+    "output": "FATCA (Foreign Account Tax Compliance Act) is a regulation requiring banks to report financial information of accounts held by US citizens or residents to ensure tax compliance."
+  },
+  {
+    "instruction": "What is a 'Balance Advantage Fund'?",
+    "input": "",
+    "output": "It is a dynamic asset allocation fund that moves money between equity and debt based on market valuations, helping investors manage volatility automatically."
+  },
+  {
+    "instruction": "Can I withdraw my Fixed Deposit before maturity?",
+    "input": "",
+    "output": "Yes, but a premature withdrawal penalty (usually 0.5% to 1%) is charged, and the interest will be paid at the rate applicable for the period the deposit remained with the bank."
+  },
+  {
+    "instruction": "What is a 'Recurring Deposit' (RD)?",
+    "input": "",
+    "output": "An RD allows you to save a fixed amount every month for a pre-determined period, earning interest similar to a Fixed Deposit. It's a great way to build a habit of regular saving."
+  },
+  {
+    "instruction": "What is 'KYC' (Know Your Customer)?",
+    "input": "",
+    "output": "KYC is a mandatory process of verifying a customer's identity and address using documents like Aadhaar, PAN, and Passport to prevent financial crimes like money laundering."
+  },
+  {
+    "instruction": "What is the 'Maturity Instruction' for an FD?",
+    "input": "",
+    "output": "You can choose 'Auto-Renewal' (principal and interest are reinvested) or 'Self-Liquidation' (maturity amount is credited to your savings account automatically)."
+  },
+  {
+    "instruction": "What is a 'Dividend Reinvestment' plan?",
+    "input": "",
+    "output": "Instead of receiving a cash payout, the dividend declared by the mutual fund is used to purchase additional units of the same scheme at the prevailing NAV."
+  },
+  {
+    "instruction": "How do I update my FATCA declaration online?",
+    "input": "",
+    "output": "Log in to the net banking portal, navigate to 'Profile Settings', and select 'FATCA/CRS Declaration'. You can update your tax residency details and self-certify instantly."
+  },
+  {
+    "instruction": "What is a 'Hybrid Fund'?",
+    "input": "",
+    "output": "A hybrid fund invests in a mix of both equity and debt. They are designed for investors looking for a balanced approach with moderate risk."
+  },
+  {
+    "instruction": "Can I get a loan against my NRE Fixed Deposit?",
+    "input": "",
+    "output": "Yes, you can get a loan in Indian Rupees against your NRE FD for local expenses. However, the loan proceeds cannot be repatriated or used for agricultural investments."
+  },
+  {
+    "instruction": "What is a 'Wealth Management' relationship manager?",
+    "input": "",
+    "output": "A Relationship Manager (RM) is a dedicated professional who provides personalized financial advice, portfolio monitoring, and priority banking services to high-net-worth clients."
+  }
+ ]
